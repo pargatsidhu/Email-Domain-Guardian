@@ -3,7 +3,7 @@
 A simple, zero-dependency utility to validate email domains against allow and disallow lists.
 
 [![NPM Version](https://img.shields.io/npm/v/email-domain-guardian.svg)](https://www.npmjs.com/package/email-domain-guardian)
-[![Tests](https://img.shields.io/github/actions/workflow/status/YOUR_USERNAME/email-domain-guardian/main.yml?branch=main)](https://github.com/YOUR_USERNAME/email-domain-guardian/actions)
+[![Tests](https://img.shields.io/github/actions/workflow/status/pargatsidhu/email-domain-guardian/main.yml?branch=main)](https://github.com/pargatsidhu/email-domain-guardian/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Why?
